@@ -80,7 +80,6 @@ void RootToCSV(Int_t Thr=4){
 	counter++;
       }
       CSV_file << vx << "," << vy << "," << vz << ",";
-      cout <<photons->size()<<endl;
       for(UInt_t j=0 ; j<photons->size() ; j++){
 	CSV_file << xpos->at(j) << ",";
 	CSV_file << ypos->at(j) << ",";
