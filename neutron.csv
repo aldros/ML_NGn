@@ -1,4 +1,4 @@
-vx,vy,vz,xpos1,ypos1,photons1,xpos2,ypos2,photons2,xpos3,ypos3,photons3,xpos4,ypos4,photons4
+vx,vy,vz,xpos0,ypos0,photons0,xpos1,ypos1,photons1
 -22.5061,-12.0563,9.13185,-99.9,-99.9,-1,-99.9,-99.9,-1
 -13.73,2.42234,7.65835,-25,0,11,25,0,3
 21.991,2.49198,-2.49319,-99.9,-99.9,-1,25,0,1
